@@ -1,0 +1,5 @@
+{
+  "version": "3.1.8",
+  "changelog": "修复已知问题，增加导入时自动替换欧卡2设置\n支持一键替换欧卡2设置，导入后自动删除关于联运的压缩包",
+  "downloadUrl": "https://github.com/xiaozhimy/mingyang-tools/releases"
+}
