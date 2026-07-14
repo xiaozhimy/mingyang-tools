@@ -1,5 +1,6 @@
 {
-  "version": "3.1.7",
-  "changelog": "修复已知问题，优化性能",
+  "version": "3.1.8",
+  "changelog": "修复已知问题，增加导入时自动替换欧卡2设置
+     支持一键替换欧卡2设置，导入后自动删除关于联运的压缩包",
   "downloadUrl": "https://github.com/你的用户名/mingyang-tools/releases"
 }
