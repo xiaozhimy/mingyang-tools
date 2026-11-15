@@ -1,5 +1,9 @@
 {
-  "version": "3.1.8",
-  "changelog": "修复已知问题，增加导入时自动替换欧卡2设置\n支持一键替换欧卡2设置，导入后自动删除关于联运的压缩包",
-  "downloadUrl": "https://github.com/xiaozhimy/mingyang-tools/releases"
+  "version": "3.5.5",
+  "changelog": "• 新增多源自动测速选最快下载源\n• 存档导入失败语音提示\n• ...",
+  "downloadUrl": "https://gitee.com/xxx/xxx/releases/v3.5.5",
+  "mirrors": [
+    { "name": "Gitee", "url": "https://gitee.com/xxx/xxx/releases/download/v3.5.5/ 名扬车队·星辰联运Setup3.5.5.exe" },
+    { "name": "GitHub", "url": "https://github.com/xxx/xxx/releases/download/v3.5.5/ 名扬车队·星辰联运Setup3.5.5.exe" }
+  ]
 }
