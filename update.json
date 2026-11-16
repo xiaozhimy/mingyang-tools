@@ -1,8 +1,8 @@
 {
-  "version": "3.5.5",
-  "changelog": "• 修复Gitee连不上时更新检查失败的问题\n• 新增jsDelivr CDN镜像兜底，国内更新更稳定\n• 修复自动扫描导入存档失败不提示的问题\n• 存档导入失败增加语音提示\n• 新增单实例检测，防止重复启动\n• 修复退出登录后不显示登录界面的问题\n• 修复游戏大更新后DLC禁用失效的问题\n• 新增一键验证游戏文件按钮\n• 优化启动速度",
-  "downloadUrl": "https://github.com/xiaozhimy/mingyang-tools/releases/tag/ 软件更新",
-  "mirrors": [
-    { "name": "GitHub", "url": "https://github.com/xiaozhimy/mingyang-tools/releases/download/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/3.5.5.exe" }
+  "version": "3.5.6",
+  "changelog": "• 修复Gitee更新检查失败的问题（加浏览器伪装头）\n• 新增jsDelivr CDN镜像兜底，国内更新更稳定\n• 修复自动扫描导入存档失败不提示的问题\n• 存档导入失败增加语音提示\n• 新增单实例检测，防止重复启动\n• 修复退出登录后不显示登录界面的问题\n• 修复游戏大更新后DLC禁用失效的问题\n• 新增一键验证游戏文件按钮\n• 优化启动速度",
+  "downloadUrl": "https://github.com/xiaozhimy/mingyang-tools/releases/tag/v3.5.6",
+  "mirrors": [https://github.com/xiaozhimy/mingyang-tools/releases/download/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/3.5.6.exe
+    { "name": "GitHub", "url": "https://github.com/xiaozhimy/mingyang-tools/releases/download/v3.5.6/ 名扬车队·星辰联运Setup3.5.6.exe" }
   ]
 }
